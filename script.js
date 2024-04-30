@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "password": "017100446c"},
 
         { "name": "ATENCIO CHUCTAYA MELANI NICOLL", 
-        "certificateURL": "https://drive.google.com/file/d/1JoIr_DahDDJlKeVBpStPBHGVTOnYQFYT/view?usp=sharing", 
+        "certificateURL": "https://drive.google.com/file/d/1_mD0dAZGULgudgOjTJhBJ_EPZ6ci3prV/view?usp=sharing", 
         "password": "019101237g"},
 
         { "name": "PACHECO HUAMANI MADAI HASLY", 
