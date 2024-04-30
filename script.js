@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "password": "021100320c"},
 
         { "name": "SONCCO CONDORI EDGAR", 
-        "certificateURL": "https://drive.google.com/file/d/17GqM1_BlYw56XQyOg07X01f7jCZMfaiC/view?usp=sharing", 
+        "certificateURL": "https://drive.google.com/file/d/13UixltGT-wOlr_3K_ogzJgydxXbv7Q_3/view?usp=sharing", 
         "password": "020101920e"},
 
         { "name": "OCHOA GALINDO ANGEL", 
@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "password": "021100273e"},
 
         { "name": "VALENZUELA ESCALANTE ESTHER", 
-        "certificateURL": "https://drive.google.com/file/d/1QNhxyuN_tFZieQ0W6Xj5bFp0WTTVe05B/view?usp=sharing", 
+        "certificateURL": "https://drive.google.com/file/d/1zjwVy3nTXbJuEreOc-2Mci-j0779mpiM/view?usp=sharing", 
         "password": "020102011i"},
 
         { "name": "MORMONTOY PRADO VIDAMI",
@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "password": "019101237g"},
 
         { "name": "PACHECO HUAMANI MADAI HASLY", 
-        "certificateURL": "https://drive.google.com/file/d/1JoIr_DahDDJlKeVBpStPBHGVTOnYQFYT/view?usp=sharing", 
+        "certificateURL": "https://drive.google.com/file/d/1LdqNfK_b5uSV-yaeHeOlXE3AzOCbCPPt/view?usp=sharing", 
         "password": "021101454c"},
 
         { "name": "MERCADO TTITO MARIA FERNANDA", 
@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "password": "021101181g"},
 
         { "name": "PAUCARMAYTA MACERA INTI PRACKASH", 
-        "certificateURL": "https://drive.google.com/file/d/16eYjzSlIJuHbFQDsUHMWXyeO27LqOouq/view?usp=sharing", 
+        "certificateURL": "https://drive.google.com/file/d/1OMV9z9GvwPGIZTRuUxgLoY1Becoy9uiN/view?usp=sharing", 
         "password": "020100533h"},
 
         { "name": "RODRIGUEZ SAAVEDRA ASTRID JULIET", 
@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "password": "021100619i"},
 
         { "name": "RAMIREZ FARFAN NATALIA", 
-        "certificateURL": "https://drive.google.com/file/d/1_U3-X_Rd3uglhPlajwpjFkIK_gUAfneR/view?usp=sharing", 
+        "certificateURL": "https://drive.google.com/file/d/15AAP5rqxkKDrv-gjjKuNCCMW5bhasZtU/view?usp=sharing", 
         "password": "021100789a"},
 
         { "name": "VARGAS GOMEZ LUZ YAMILET", 
@@ -194,7 +194,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "password": "021100156i"},
 
         { "name": "HUAYLLAPUMA CHALLCO ASHLY MAYLU", 
-        "certificateURL": "https://drive.google.com/file/d/1X3fdEp3GjlFx_25LDn27uIce77gLxL1x/view?usp=sharing", 
+        "certificateURL": "https://drive.google.com/file/d/1XPEJ8kEjuVPCJl9Kfq5GRHDf4WmKLLMx/view?usp=sharing", 
         "password": "021100540c"},
 
         { "name": "ACUÑA LOAYZA LORENA ODALIZ", 
@@ -237,7 +237,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "certificateURL": "https://drive.google.com/file/d/13c_J_KR7XhQeeP-dUPXcf9UHJ4a41G2s/view?usp=sharing", 
         "password": "wcalderon"},
 
-        { "name": "CARLOTO GUTIERREZ ED", 
+        { "name": "CARLOTTO GUTIERREZ ED", 
         "certificateURL": "https://drive.google.com/file/d/1Hy7R2_skllg9fzCIA-C6OjlC6PwzdcDX/view?usp=sharing", 
         "password": "egutierrezc"},
 
